@@ -1,4 +1,4 @@
-# Django Girls Code Camp Week 6
+## Django Girls Code Camp Week 6
 
 Requirements:
 
